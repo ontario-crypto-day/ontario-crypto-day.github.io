@@ -20,7 +20,7 @@ excerpt: "June 6, 2025 • University of Waterloo"
 
 ---
 
-In the spirit of [Bay Area Crypto Day](https://sites.google.com/view/bayareacryptoday/), [NY Crypto Day](https://nycryptoday.wordpress.com/), and others, **Ontario Cryptography Day** aims to periodically bring together the cryptography community in Ontario for a day of research talks and discussions. 
+In the spirit of [Bay Area Crypto Day](https://sites.google.com/view/bayareacryptoday/), [NY Crypto Day](https://nycryptoday.wordpress.com/), and others, **Ontario Cryptography Day** aims to bring together the cryptography community in Ontario for a day of research talks and discussions. We hope to establish a recurring event rotating through universities in Ontario.
 
 The event is open to academic, industry, and public sector researchers and practitioners in cryptography, but registration is required.
 
