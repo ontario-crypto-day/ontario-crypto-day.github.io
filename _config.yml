@@ -1,0 +1,7 @@
+title: Ontario Cryptography Day
+
+theme: minimal-mistakes-jekyll
+# documentation: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+atom_feed:
+  hide: true
