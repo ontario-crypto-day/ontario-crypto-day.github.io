@@ -38,7 +38,11 @@ The event is open to academic, industry, and public sector researchers and pract
 <p><b>Speakers:</b></p>
 
 <ul>
-<li>To be announced.</li>
+<li>Atefeh Mashatan, Toronto Metropolitan University</li>
+<li>Connor Paddock, University of Ottawa</li>
+<li>Matthew McPherrin, Let's Encrypt</li>
+<li>Rasoul Akhavan, University of Waterloo</li>
+<li>Vahid Reza Asadi, University of Waterloo</li>
 </ul>
 </div>
 
@@ -61,3 +65,9 @@ The event is open to academic, industry, and public sector researchers and pract
 - [Douglas Stebila](https://www.douglas.stebila.ca/research/), University of Waterloo
 
 For more information, please email [dstebila@uwaterloo.ca](mailto:dstebila@uwaterloo.ca).
+
+## Sponsors
+
+Ontario Cryptography Day was made possible with the financial support of the [University of Waterloo's CryptoWorks21 program](https://uwaterloo.ca/cryptoworks/). Thanks to Sara Zafar Jafarzadeh, Michele Mosca, and Chin Heng Lee for their assistance.
+
+<a href="https://uwaterloo.ca/cryptoworks/"><img src="images/cryptoworks21.png" alt="CryptoWorks21 logo" style="width: 400px;"></a>
