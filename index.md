@@ -38,11 +38,12 @@ The event is open to academic, industry, and public sector researchers and pract
 <p><b>Speakers:</b></p>
 
 <ul>
-<li>Atefeh Mashatan, Toronto Metropolitan University</li>
-<li>Connor Paddock, University of Ottawa</li>
-<li>Matthew McPherrin, Let's Encrypt</li>
-<li>Rasoul Akhavan, University of Waterloo</li>
-<li>Vahid Reza Asadi, University of Waterloo</li>
+<li><a href="https://www.torontomu.ca/information-technology-management/faculty-research/atefeh-mashatan/">Atefeh Mashatan</a>, Toronto Metropolitan University</li>
+<li><a href="https://www.connorpaddock.page/">Connor Paddock</a>, University of Ottawa</li>
+<li><a href="https://mcpherrin.ca/">Matthew McPherrin</a>, Let's Encrypt</li>
+<li><a href="https://rasoulam.github.io/">Rasoul Akhavan</a>, University of Waterloo</li>
+<li><a href="https://vrasadi.com/">Vahid Reza Asadi</a>, University of Waterloo</li>
+<li>To be announced</li>
 </ul>
 </div>
 
