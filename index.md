@@ -53,7 +53,7 @@ The event is open to academic, industry, and public sector researchers and pract
 
 **Public transport:**
 
-- [Go Transit](https://www.gotransit.com/en): Some Go Transit buses come directly to campus. For example, there is a GO train departing Toronto's Union Station at 7:34am to Bramalea which connects with a GO bus to the University of Waterloo campus, arriving at 9:50am. There are also GO trains to Kitchener station which connect with GRT buses/light rail from Kitchener to UW. Check the trip planner on the GO Transit website for more details.
+- [GO Transit](https://www.gotransit.com/en): Some GO Transit buses come directly to campus. For example, there is a GO train departing Toronto's Union Station at 7:34am to Bramalea which connects with a GO bus to the University of Waterloo campus, arriving at 9:50am. There are also GO trains to Kitchener station which connect with GRT buses/light rail from Kitchener to UW. Check the trip planner on the GO Transit website for more details.
 - [Grand River Transit](https://www.grt.ca/en/): The ION light rail stops at the [University of Waterloo station](https://maps.app.goo.gl/pAdNsNZxX9tB7FN17). There are also many local buses that reach the University of Waterloo campus.
 
 ## Map
