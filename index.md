@@ -38,12 +38,14 @@ The event is open to academic, industry, and public sector researchers and pract
 <p><b>Speakers:</b></p>
 
 <ul>
-<li><a href="https://www.torontomu.ca/information-technology-management/faculty-research/atefeh-mashatan/">Atefeh Mashatan</a>, Toronto Metropolitan University</li>
+<li><a href="hthttps://www.torontomu.ca/tedrogersschool/cybersecurity-research-lab/people/brian-goncalves/">Brian Goncalves</a>, Toronto Metropolitan University. <a onclick="document.getElementById('abstractBrian').style.display='block';"><i>DiSK: A Deniable Split KEM from The MLWE Problem</i></a></li>
+  <ul style="display: none;" id="abstractBrian"><li>
+    <p>Abstract: As the pending migration away from quantum-vulnerable cryptography becomes a reality, widely used key-exchange protocols like Signal need to be replaced. Given the countless number of people who use applications like Signal and Whatsapp, there is an urgent need to find a suitable replacement to continue protecting messages sent via these apps from becoming exposed. However, in order to be a true successor to protocols such as Signal, all security guarantees provided by it must be maintained. This includes indistinguishability, asynchronicity, and deniability. One tool for finding replacements are deniable split Key Encapsulation Mechanisms (KEMs) as defined by Brendel et al. [8]. Split KEMs are designed to mimic the message structure of Diffie-Hellman-based protocols such as X3DH used in Signal. Collins et al. recently formalized the definition of deniability for split KEMs, providing another step toward split KEMs being practical tools for migration [9]. In this work, we present a new deniable split KEM, which we call DiSK (Deniable Split KEM). Our split KEM is based on the Module Learning With Error problem [6, 20] and the Non-Interactive Key-Exchange (NIKE) SWOOSH [13]. We prove the indistinguishability and deniability of DiSK in the quantum random oracle model with tight security reductions. This is joint work with Atefeh Mashatan.</p>
+  </li></ul>
 <li><a href="https://www.connorpaddock.page/">Connor Paddock</a>, University of Ottawa</li>
 <li><a href="https://mcpherrin.ca/">Matthew McPherrin</a>, Let's Encrypt</li>
 <li><a href="https://rasoulam.github.io/">Rasoul Akhavan</a>, University of Waterloo</li>
 <li><a href="https://vrasadi.com/">Vahid Reza Asadi</a>, University of Waterloo</li>
-<li>To be announced</li>
 </ul>
 </div>
 
