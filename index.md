@@ -4,7 +4,7 @@ title: Ontario Cryptography Day
 
 feature_row:
   - title: "Friday June 6, 2025"
-    excerpt: "Approximately 10am–4:30pm"
+    excerpt: "10:00am–4:30pm"
   - title: "University of Waterloo"
     excerpt: "Davis Centre (DC) 1301 and 1302"
   - title: "Registration"
