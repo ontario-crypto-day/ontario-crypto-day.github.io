@@ -43,7 +43,7 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>10:05–10:40</td>
   <td>DC&nbsp;1302</td>
-  <td><a target="_blank" href="https://vrasadi.com/">Vahid Reza Asadi</a>, University of Waterloo</td>
+  <td><b><a target="_blank" href="https://vrasadi.com/">Vahid Reza Asadi</a></b>, University of Waterloo</td>
 </tr>
 <tr>
   <td>10:40–11:10</td>
@@ -53,12 +53,12 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>11:10–11:45</td>
   <td>DC&nbsp;1302</td>
-  <td><a target="_blank" href="https://www.connorpaddock.page/">Connor Paddock</a>, University of Ottawa</td>
+  <td><b><a target="_blank" href="https://www.connorpaddock.page/">Connor Paddock</a></b>, University of Ottawa</td>
 </tr>
 <tr>
   <td>11:45–12:20</td>
   <td>DC&nbsp;1302</td>
-  <td><a target="_blank" href="https://mcpherrin.ca/">Matthew McPherrin</a>, Let's Encrypt</td>
+  <td><b><a target="_blank" href="https://mcpherrin.ca/">Matthew McPherrin</a></b>, Let's Encrypt</td>
 </tr>
 <tr>
   <td>12:20–13:50</td>
@@ -68,7 +68,7 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>13:50–14:50</td>
   <td>DC&nbsp;1302</td>
-  <td>Invited keynote: <a target="_blank" href="https://web.eecs.umich.edu/~cpeikert/">Chris Peikert</a>, University of Michigan</td>
+  <td>Invited keynote: <b><a target="_blank" href="https://web.eecs.umich.edu/~cpeikert/">Chris Peikert</a></b>, University of Michigan</td>
 </tr>
 <tr>
   <td>14:50–15:20</td>
@@ -78,7 +78,7 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>15:20–15:55</td>
   <td>DC&nbsp;1302</td>
-  <td><a target="_blank" href="hthttps://www.torontomu.ca/tedrogersschool/cybersecurity-research-lab/people/brian-goncalves/">Brian Goncalves</a>, Toronto Metropolitan University. <a onclick="document.getElementById('abstractBrian').style.display='block';"><i>DiSK: A Deniable Split KEM from The MLWE Problem</i></a>
+  <td><b><a target="_blank" href="hthttps://www.torontomu.ca/tedrogersschool/cybersecurity-research-lab/people/brian-goncalves/">Brian Goncalves</a></b>, Toronto Metropolitan University. <a onclick="document.getElementById('abstractBrian').style.display='block';"><i>DiSK: A Deniable Split KEM from The MLWE Problem</i></a>
   <ul style="display: none;" id="abstractBrian"><li>
     <p>Abstract: As the pending migration away from quantum-vulnerable cryptography becomes a reality, widely used key-exchange protocols like Signal need to be replaced. Given the countless number of people who use applications like Signal and Whatsapp, there is an urgent need to find a suitable replacement to continue protecting messages sent via these apps from becoming exposed. However, in order to be a true successor to protocols such as Signal, all security guarantees provided by it must be maintained. This includes indistinguishability, asynchronicity, and deniability. One tool for finding replacements are deniable split Key Encapsulation Mechanisms (KEMs) as defined by Brendel et al. [8]. Split KEMs are designed to mimic the message structure of Diffie-Hellman-based protocols such as X3DH used in Signal. Collins et al. recently formalized the definition of deniability for split KEMs, providing another step toward split KEMs being practical tools for migration [9]. In this work, we present a new deniable split KEM, which we call DiSK (Deniable Split KEM). Our split KEM is based on the Module Learning With Error problem [6, 20] and the Non-Interactive Key-Exchange (NIKE) SWOOSH [13]. We prove the indistinguishability and deniability of DiSK in the quantum random oracle model with tight security reductions. This is joint work with Atefeh Mashatan.</p>
   </li></ul></td>
@@ -86,7 +86,7 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>15:55–16:30</td>
   <td>DC&nbsp;1302</td>
-  <td><a target="_blank" href="https://rasoulam.github.io/">Rasoul Akhavan</a>, University of Waterloo</td>
+  <td><b><a target="_blank" href="https://rasoulam.github.io/">Rasoul Akhavan</a></b>, University of Waterloo</td>
 </tr>
 </table>
 
