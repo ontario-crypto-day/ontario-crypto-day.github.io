@@ -29,25 +29,69 @@ The event is open to academic, industry, and public sector researchers and pract
 <div style="margin: 2em 0 !important; padding: 1em; color: #3d4144; background-color: #d8ebf1; border-radius: 4px; box-shadow: 0 1px 1px rgba(59,156,186,0.25);">
 <h2 style="margin-top: 0em; border-color: #b8cbd1;">Program</h2>
 
-<p>The program will consist of technical talks, with coffee breaks and lunch.</p>
-
-<p>The event will start at 10am and will end at approximately 4:30pm (end time to be confirmed).</p>
-
-<p><b>Invited keynote speaker:</b> <a href="https://web.eecs.umich.edu/~cpeikert/">Chris Peikert</a>, University of Michigan</p>
-
-<p><b>Speakers:</b></p>
-
-<ul>
-<li><a href="hthttps://www.torontomu.ca/tedrogersschool/cybersecurity-research-lab/people/brian-goncalves/">Brian Goncalves</a>, Toronto Metropolitan University. <a onclick="document.getElementById('abstractBrian').style.display='block';"><i>DiSK: A Deniable Split KEM from The MLWE Problem</i></a></li>
+<table style="font-size: 90%;">
+<tr>
+  <td>09:45–10:00</td>
+  <td>DC&nbsp;1301</td>
+  <td>Registration</td>
+</tr>
+<tr>
+  <td>10:00–10:05</td>
+  <td>DC&nbsp;1302</td>
+  <td>Welcome</td>
+</tr>
+<tr>
+  <td>10:05–10:40</td>
+  <td>DC&nbsp;1302</td>
+  <td><a target="_blank" href="https://vrasadi.com/">Vahid Reza Asadi</a>, University of Waterloo</td>
+</tr>
+<tr>
+  <td>10:40–11:10</td>
+  <td>DC&nbsp;1301</td>
+  <td>Coffee break</td>
+</tr>
+<tr>
+  <td>11:10–11:45</td>
+  <td>DC&nbsp;1302</td>
+  <td><a target="_blank" href="https://www.connorpaddock.page/">Connor Paddock</a>, University of Ottawa</td>
+</tr>
+<tr>
+  <td>11:45–12:20</td>
+  <td>DC&nbsp;1302</td>
+  <td><a target="_blank" href="https://mcpherrin.ca/">Matthew McPherrin</a>, Let's Encrypt</td>
+</tr>
+<tr>
+  <td>12:20–13:50</td>
+  <td>DC&nbsp;1301</td>
+  <td>Lunch</td>
+</tr>
+<tr>
+  <td>13:50–14:50</td>
+  <td>DC&nbsp;1302</td>
+  <td>Invited keynote: <a target="_blank" href="https://web.eecs.umich.edu/~cpeikert/">Chris Peikert</a>, University of Michigan</td>
+</tr>
+<tr>
+  <td>14:50–15:20</td>
+  <td>DC&nbsp;1301</td>
+  <td>Coffee break</td>
+</tr>
+<tr>
+  <td>15:20–15:55</td>
+  <td>DC&nbsp;1302</td>
+  <td><a target="_blank" href="hthttps://www.torontomu.ca/tedrogersschool/cybersecurity-research-lab/people/brian-goncalves/">Brian Goncalves</a>, Toronto Metropolitan University. <a onclick="document.getElementById('abstractBrian').style.display='block';"><i>DiSK: A Deniable Split KEM from The MLWE Problem</i></a>
   <ul style="display: none;" id="abstractBrian"><li>
     <p>Abstract: As the pending migration away from quantum-vulnerable cryptography becomes a reality, widely used key-exchange protocols like Signal need to be replaced. Given the countless number of people who use applications like Signal and Whatsapp, there is an urgent need to find a suitable replacement to continue protecting messages sent via these apps from becoming exposed. However, in order to be a true successor to protocols such as Signal, all security guarantees provided by it must be maintained. This includes indistinguishability, asynchronicity, and deniability. One tool for finding replacements are deniable split Key Encapsulation Mechanisms (KEMs) as defined by Brendel et al. [8]. Split KEMs are designed to mimic the message structure of Diffie-Hellman-based protocols such as X3DH used in Signal. Collins et al. recently formalized the definition of deniability for split KEMs, providing another step toward split KEMs being practical tools for migration [9]. In this work, we present a new deniable split KEM, which we call DiSK (Deniable Split KEM). Our split KEM is based on the Module Learning With Error problem [6, 20] and the Non-Interactive Key-Exchange (NIKE) SWOOSH [13]. We prove the indistinguishability and deniability of DiSK in the quantum random oracle model with tight security reductions. This is joint work with Atefeh Mashatan.</p>
-  </li></ul>
-<li><a href="https://www.connorpaddock.page/">Connor Paddock</a>, University of Ottawa</li>
-<li><a href="https://mcpherrin.ca/">Matthew McPherrin</a>, Let's Encrypt</li>
-<li><a href="https://rasoulam.github.io/">Rasoul Akhavan</a>, University of Waterloo</li>
-<li><a href="https://vrasadi.com/">Vahid Reza Asadi</a>, University of Waterloo</li>
-</ul>
+  </li></ul></td>
+</tr>
+<tr>
+  <td>15:55–16:30</td>
+  <td>DC&nbsp;1302</td>
+  <td><a target="_blank" href="https://rasoulam.github.io/">Rasoul Akhavan</a>, University of Waterloo</td>
+</tr>
+</table>
+
 </div>
+
 
 ## Travel
 
