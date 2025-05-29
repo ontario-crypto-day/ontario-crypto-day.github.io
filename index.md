@@ -124,3 +124,5 @@ For more information, please email [dstebila@uwaterloo.ca](mailto:dstebila@uwate
 Ontario Cryptography Day was made possible with the financial support of the [University of Waterloo's CryptoWorks21 program](https://uwaterloo.ca/cryptoworks/). Thanks to Sara Zafar Jafarzadeh, Michele Mosca, and Chin Heng Lee for their assistance.
 
 <a href="https://uwaterloo.ca/cryptoworks/"><img src="images/cryptoworks21.png" alt="CryptoWorks21 logo" style="width: 400px;"></a>
+
+We acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC).
