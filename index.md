@@ -43,7 +43,10 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>10:05–10:40</td>
   <td>DC&nbsp;1302</td>
-  <td><b><a target="_blank" href="https://vrasadi.com/">Vahid Reza Asadi</a></b>, University of Waterloo</td>
+  <td><b><a target="_blank" href="https://vrasadi.com/">Vahid Reza Asadi</a></b>, University of Waterloo. 
+    <a onclick="document.getElementById('abstractVahid').style.display='block';"><i>Lower Bounds on Entanglement and Quantum Gates in Non-local Quantum Computation</i></a>
+    <p style="display: none;" id="abstractVahid">Abstract: A non-local quantum computation (NLQC) replaces an interaction between two quantum systems with a single simultaneous round of communication and shared entanglement. In this talk, we will review two classes of NLQC, f-routing and f-BB84, which are of relevance to classical information-theoretic cryptography and quantum position verification, and we will show the first non-trivial lower bounds on entanglement in both settings, but are restricted to lower bounding protocols with perfect correctness. Within this setting, we give a lower bound on the Schmidt rank of any entangled state that completes these tasks for a given function f(x,y) in terms of the rank of a matrix g(x,y) whose entries are zero when f(x,y)=0, and strictly positive otherwise. This also leads to a lower bound on the Schmidt rank in terms of the non-deterministic quantum communication complexity of f(x,y). We also prove that the number of quantum gates plus single qubit measurements needed to implement a function f is lower bounded linearly by the communication complexity of f in the simultaneous message-passing model with shared entanglement. Because of a relationship between f-routing and the conditional disclosure of secrets (CDS) primitive studied in information-theoretic cryptography, we obtain a new technique for lower bounding the randomness complexity of CDS.</p>
+  </td>
 </tr>
 <tr>
   <td>10:40–11:10</td>
@@ -53,9 +56,7 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>11:10–11:45</td>
   <td>DC&nbsp;1302</td>
-  <td><b><a target="_blank" href="https://www.connorpaddock.page/">Connor Paddock</a></b>, University of Ottawa. 
-    <a onclick="document.getElementById('abstractConnor').style.display='block';"><i>Lower Bounds on Entanglement and Quantum Gates in Non-local Quantum Computation</i></a>
-    <p style="display: none;" id="abstractConnor">Abstract: A non-local quantum computation (NLQC) replaces an interaction between two quantum systems with a single simultaneous round of communication and shared entanglement. In this talk, we will review two classes of NLQC, f-routing and f-BB84, which are of relevance to classical information-theoretic cryptography and quantum position verification, and we will show the first non-trivial lower bounds on entanglement in both settings, but are restricted to lower bounding protocols with perfect correctness. Within this setting, we give a lower bound on the Schmidt rank of any entangled state that completes these tasks for a given function f(x,y) in terms of the rank of a matrix g(x,y) whose entries are zero when f(x,y)=0, and strictly positive otherwise. This also leads to a lower bound on the Schmidt rank in terms of the non-deterministic quantum communication complexity of f(x,y). We also prove that the number of quantum gates plus single qubit measurements needed to implement a function f is lower bounded linearly by the communication complexity of f in the simultaneous message-passing model with shared entanglement. Because of a relationship between f-routing and the conditional disclosure of secrets (CDS) primitive studied in information-theoretic cryptography, we obtain a new technique for lower bounding the randomness complexity of CDS.</p>
+  <td><b><a target="_blank" href="https://www.connorpaddock.page/">Connor Paddock</a></b>, University of Ottawa
   </td>
 </tr>
 <tr>
@@ -88,7 +89,10 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>15:55–16:30</td>
   <td>DC&nbsp;1302</td>
-  <td><b><a target="_blank" href="https://rasoulam.github.io/">Rasoul Akhavan</a></b>, University of Waterloo</td>
+  <td><b><a target="_blank" href="https://rasoulam.github.io/">Rasoul Akhavan</a></b>, University of Waterloo. 
+    <a onclick="document.getElementById('abstractRasoul').style.display='block';"><i>Overcoming Challenges of Deploying PIR in Real-World Applications</i></a>
+    <p style="display: none;" id="abstractRasoul">Abstract: Private Information Retrieval (PIR) is a useful privacy-preserving protocol that is broadly applicable as a fundamental building block in various systems due to its generic functionality. While PIR was originally considered impractical for real-world deployment, recent advancements have led to the design of highly efficient PIR protocols. While these significant speed improvements are necessary for practical deployment, many of these protocols rely on assumptions that frequently do not hold in real-world applications. This talk will explore specific real-world applications of PIR, such as its use within the InterPlanetary File System (IPFS), and highlight the challenges these applications present for integrating existing PIR schemes. Motivated by these practical considerations, we will present our recent work on PIR without setup, among other related contributions. We will detail several novel constructions of PIR that eliminate the need for setup phases and reduce communication costs. We demonstrate how these constructions are specifically designed to align with the assumptions and requirements prevalent in real-world deployments.</p>
+    </td>
 </tr>
 </table>
 
