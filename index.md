@@ -56,7 +56,7 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>11:10–11:45</td>
   <td>DC&nbsp;1302</td>
-  <td><b><a target="_blank" href="https://www.connorpaddock.page/">Connor Paddock</a></b>, University of Ottawa
+  <td><b><a target="_blank" href="https://www.connorpaddock.page/">Connor Paddock</a></b>, University of Ottawa. <i>Using nonlocal games to verify quantum computation through cryptographic compilation</i>
   </td>
 </tr>
 <tr>
