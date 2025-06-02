@@ -75,7 +75,7 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>13:50–14:50</td>
   <td>DC&nbsp;1302</td>
-  <td>Invited keynote: <b><a target="_blank" href="https://web.eecs.umich.edu/~cpeikert/">Chris Peikert</a></b>, University of Michigan</td>
+  <td>Invited keynote: <b><a target="_blank" href="https://web.eecs.umich.edu/~cpeikert/">Chris Peikert</a></b>, University of Michigan. <i>Unexpected Applications of Fully Homomorphic Encryption</i></td>
 </tr>
 <tr>
   <td>14:50–15:20</td>
