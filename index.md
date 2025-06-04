@@ -8,10 +8,11 @@ feature_row:
   - title: "University of Waterloo"
     excerpt: "Davis Centre (DC) 1301 and 1302"
   - title: "Registration"
-    excerpt: "Registration is free but required"
-    url: "https://forms.office.com/r/CVKVrVJHCK"
-    btn_label: "Register by June 3"
-    btn_class: "btn btn--success"
+    excerpt: "Registration is now closed"
+#    excerpt: "Registration is free but required"
+#    url: "https://forms.office.com/r/CVKVrVJHCK"
+#    btn_label: "Register by June 3"
+#    btn_class: "btn btn--success"
 header:
   overlay_color: "#3b9cba"
 #   overlay_filter: "0.5"
@@ -31,7 +32,7 @@ The event is open to academic, industry, and public sector researchers and pract
 
 <table style="font-size: 90%;">
 <tr>
-  <td>09:45–10:00</td>
+  <td>09:40–10:00</td>
   <td>DC&nbsp;1301</td>
   <td>Registration</td>
 </tr>
