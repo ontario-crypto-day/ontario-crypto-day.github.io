@@ -10,10 +10,10 @@ feature_row:
   - title: "Registration"
     excerpt: "Registration will open soon"
     # excerpt: "Registration is now closed"
-    # excerpt: "Registration is free but required"
-    # url: "https://forms.office.com/r/CVKVrVJHCK"
-    # btn_label: "Register by June 3"
-    # btn_class: "btn btn--success"
+    excerpt: "Registration is free but required"
+    url: "https://docs.google.com/forms/d/19uYP20WnNqmkCEz66LpRlyn7PqYITquwVsx9NfqSuQA/edit"
+    btn_label: "Register now"
+    btn_class: "btn btn--success"
 header:
   overlay_color: "#3b9cba"
 #   overlay_filter: "0.5"
@@ -40,7 +40,7 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>10:00–10:45</td>
   <td></td>
-  <td><b><a target="_blank" href="https://romanlangrehr.github.io/">Roman Langrehr</a></b>, University of Waterloo.
+  <td><b><a target="_blank" href="https://romanlangrehr.github.io/">Roman Langrehr</a></b>, University of Waterloo
   </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>11:15–12:15</td>
   <td></td>
-  <td>Invited keynote: <b><a target="_blank" href="https://elaineshi.com/">Elaine Shi</a></b>, Carnegie Mellon University.
+  <td>Invited keynote: <b><a target="_blank" href="https://elaineshi.com/">Elaine Shi</a></b>, Carnegie Mellon University
   </td>
 </tr>
 <tr>
@@ -62,12 +62,12 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>13:45–14:30</td>
   <td></td>
-  <td><b>Siddharth Agarwal</b>, University of Toronto.</td>
+  <td><b>Siddharth Agarwal</b>, University of Toronto</td>
 </tr>
 <tr>
   <td>14:30–15:15</td>
   <td></td>
-  <td><b>Mojtaba Fadavi</b>, University of Waterloo.</td>
+  <td><b>Mojtaba Fadavi</b>, University of Waterloo</td>
 </tr>
 <tr>
   <td>15:15–15:45</td>
@@ -77,27 +77,22 @@ The event is open to academic, industry, and public sector researchers and pract
 <tr>
   <td>15:45–16:30</td>
   <td></td>
-  <td><b><a target="_blank" href="https://pps-lab.com/people/ashwinkarthikeyan/">Ashwin Karthikeyan</a></b>, University of Toronto.
+  <td><b><a target="_blank" href="https://pps-lab.com/people/ashwinkarthikeyan/">Ashwin Karthikeyan</a></b>, University of Toronto
     </td>
 </tr>
 </table>
 
 </div>
 
-{% if 0 == 1 %}
 ## Travel
 
-**Parking:** The closest visitor parking to the Davis Centre is [Q Lot](https://maps.app.goo.gl/6innGRkyF9o33tRy5), which costs about $7/day and must be paid using the [AMP Mobile pay app](https://uwaterloo.ca/sustainable-transportation/visitors).
+**Public transport:** The Fields Institute is located a short walking distance from the Queen's Park TTC station.
 
-**Public transport:**
-
-- [GO Transit](https://www.gotransit.com/en): Some GO Transit buses come directly to campus. For example, there is a GO train departing Toronto's Union Station at 7:34am to Bramalea which connects with a GO bus to the University of Waterloo campus, arriving at 9:50am. There are also GO trains to Kitchener station which connect with GRT buses/light rail from Kitchener to UW. Check the trip planner on the GO Transit website for more details.
-- [Grand River Transit](https://www.grt.ca/en/): The ION light rail stops at the [University of Waterloo station](https://maps.app.goo.gl/pAdNsNZxX9tB7FN17). There are also many local buses that reach the University of Waterloo campus.
+**Parking:** There are a few paid parking spots at the intersection of Huron St. and College St.
 
 ## Map
 
-<a href="https://www.google.com/maps/d/edit?mid=14pfPhZm95flTo6X1_cTsNYOfPZblNUY&usp=sharing"><img src="images/map-20250606.png" alt="Localized map of University of Waterloo locations" style="width: 600px;"></a>
-{% endif %}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.4924318361063!2d-79.39732219999999!3d43.6587275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34c733f2e3d5%3A0x5360bf96152b850a!2sThe%20Fields%20Institute!5e0!3m2!1sen!2sca!4v1762615362887!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Organizers
 
