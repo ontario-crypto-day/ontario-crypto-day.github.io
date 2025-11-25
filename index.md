@@ -10,7 +10,7 @@ feature_row:
   - title: "Registration"
     excerpt: "Registration will open soon"
     # excerpt: "Registration is now closed"
-    excerpt: "Registration is free but required"
+    excerpt: "Registration is free but required (Registration is now closed)"
     url: "https://docs.google.com/forms/d/19uYP20WnNqmkCEz66LpRlyn7PqYITquwVsx9NfqSuQA/edit"
     btn_label: "Register now"
     btn_class: "btn btn--success"
