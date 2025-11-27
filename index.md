@@ -22,7 +22,7 @@ excerpt: "Bringing together the cryptography community in Ontario"
 
 ---
 
-In the spirit of [Bay Area Crypto Day](https://sites.google.com/view/bayareacryptoday/), [NY Crypto Day](https://nycryptoday.wordpress.com/), and others, **Ontario Cryptography Day** aims to bring together the cryptography community in Ontario for a day of research talks and discussions. We hope to establish a recurring event rotating through universities in Ontario.
+In the spirit of [Bay Area Crypto Day](https://sites.google.com/view/bayareacryptoday/), [NY Crypto Day](https://nycryptoday.wordpress.com/), [Charles River Crypto Day](https://bostoncryptoday.wordpress.com/), [Texas Crypto Day](https://texascryptoday.github.io/) and others, **Ontario Cryptography Day** aims to bring together the cryptography community in Ontario for a day of research talks and discussions. We hope to establish a recurring event rotating through universities in Ontario, Canada.
 
 The event is open to academic, industry, and public sector researchers and practitioners in cryptography, but registration is required.
 
@@ -42,7 +42,8 @@ The event is open to academic, industry, and public sector researchers and pract
   <td>10:00–10:45</td>
   <td></td>
   <td><b><a target="_blank" href="https://romanlangrehr.github.io/">Roman Langrehr</a></b>, University of Waterloo</td>
-  <td></td>
+  <td>When Are Pairings Necessary for Generic-Group Functional Encryption? <details><summary>Abstract</summary>We show that private-key function-hiding inner-product functional encryption (FH-IPFE) is impossible in the generic group model (GGM). This impossibility extends to (non-compact) two-input quadratic functional encryption (QFE) under a weak security notion that allows only a single key corruption. Our results apply both to the variant where decryption outputs the result directly, and to the variant where the result is encoded in the exponent of a group element.Our results hold in both Maurer’s and Shoup’s model, with different tradeoffs. In Maurer’s model, we prove that FH-IPFE over Z_q^n cannot be realized even when q^n is polynomially bounded. This stands in sharp contrast to non-function-hiding FE, which can be constructed from minimal assumptions (one-way functions in the private-key setting and public-key encryption in the public-key setting) whenever the set of functions is polynomially bounded. We extend this impossibility to Shoup’s model when q^n is super-polynomial. Conceptually, our proof simulates any construction in Shoup’s model as one in Maurer’s model augmented with access to a random oracle.
+Our techniques may be of independent interest, offering a general method for upgrading other impossibility results from Maurer’s model to Shoup’s model.The talk is based on a paper in submission to Eurocrypt 2026.</details></td>
 </tr>
 <tr>
   <td>10:45–11:15</td>
@@ -54,7 +55,7 @@ The event is open to academic, industry, and public sector researchers and pract
   <td>11:15–12:15</td>
   <td></td>
   <td>Invited keynote: <b><a target="_blank" href="https://elaineshi.com/">Elaine Shi</a></b>, Carnegie Mellon University</td>
-  <td>Decentralized mechanism design <details><summary>Abstract</summary>In classical auction design, we take it for granted that the auctioneer
+  <td>Decentralized Mechanism Design <details><summary>Abstract</summary>In classical auction design, we take it for granted that the auctioneer
 is trusted and always implements the auction's rules honestly. This
 assumption, however, no longer holds in modern auctions based on
 blockchains, or those mediated by third-party platforms such as Google.
