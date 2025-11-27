@@ -36,49 +36,72 @@ The event is open to academic, industry, and public sector researchers and pract
   <td>09:40–10:00</td>
   <td></td>
   <td>Registration</td>
+  <td></td>
 </tr>
 <tr>
   <td>10:00–10:45</td>
   <td></td>
-  <td><b><a target="_blank" href="https://romanlangrehr.github.io/">Roman Langrehr</a></b>, University of Waterloo
-  </td>
+  <td><b><a target="_blank" href="https://romanlangrehr.github.io/">Roman Langrehr</a></b>, University of Waterloo</td>
+  <td></td>
 </tr>
 <tr>
   <td>10:45–11:15</td>
   <td></td>
   <td>Coffee break</td>
+  <td></td>
 </tr>
 <tr>
   <td>11:15–12:15</td>
   <td></td>
-  <td>Invited keynote: <b><a target="_blank" href="https://elaineshi.com/">Elaine Shi</a></b>, Carnegie Mellon University
-  </td>
+  <td>Invited keynote: <b><a target="_blank" href="https://elaineshi.com/">Elaine Shi</a></b>, Carnegie Mellon University</td>
+  <td>Decentralized mechanism design <details><summary>Abstract</summary>In classical auction design, we take it for granted that the auctioneer
+is trusted and always implements the auction's rules honestly. This
+assumption, however, no longer holds in modern auctions based on
+blockchains, or those mediated by third-party platforms such as Google.
+For example, in blockchain-based auctions, the consensus nodes that
+partly serve as the auctioneer are incentivized to deviate from honest
+behavior if profitable. Third-party auction platforms such as Google
+have also been involved in high-profile anti-trust lawsuits for
+manipulating their auctions.In this talk, I will describe our recent work on decentralized mechanism
+design, where we aim to build a new scientific foundation for emerging
+auctions that are not backed by a trusted auctioneer. I will
+characterize the mathematical landscape of decentralized mechanism
+design, by showing several infeasibility and feasibility results. I
+will also highlight how cryptography can play an essential role for
+bypassing impossibility results in decentralized mechanism design,
+leading to a new class of auctions that not only incentivize bidders to
+act honestly, but also incentivize the auctioneer to play by the book.</details></td>
 </tr>
 <tr>
   <td>12:15–13:45</td>
   <td></td>
   <td>Lunch</td>
+  <td></td>
 </tr>
 <tr>
   <td>13:45–14:30</td>
   <td></td>
   <td><b>Siddharth Agarwal</b>, University of Toronto</td>
+  <td>Pseudorandom Correlated Function for Rate-1 Garbling <details><summary>Abstract</summary>The recent work of Liu, Wang, Yang, and Yu (EUROCRYPT 2025) introduced BitGC, a rate-1 garbling scheme for Boolean circuits where the size of the garbled circuit contains just 1 bit per gate. The scheme has modest evaluation costs (a constant number of homomorphic operations per gate) compared to other lattice-based succinct garbling schemes which rely on a non-black-box composition of fully homomorphic encryption and attribute-based encryption. Motivated by the goal of further compressing the garbled circuit while retaining the evaluation efficiency of BitGC, in this work, we introduce the notion of a pseudorandom correlation function (PCF) for garbling which effectively provides a compressed representation of the garbled circuit and its associated input labels. We provide a lattice-based instantiation for the same.</details></td>
 </tr>
 <tr>
   <td>14:30–15:15</td>
   <td></td>
   <td><b>Mojtaba Fadavi</b>, University of Waterloo</td>
+  <td></td>
 </tr>
 <tr>
   <td>15:15–15:45</td>
   <td></td>
   <td>Coffee break</td>
+  <td></td>
 </tr>
 <tr>
   <td>15:45–16:30</td>
   <td></td>
-  <td><b><a target="_blank" href="https://pps-lab.com/people/ashwinkarthikeyan/">Ashwin Karthikeyan</a></b>, University of Toronto
-    </td>
+  <td><b><a target="_blank" href="https://pps-lab.com/people/ashwinkarthikeyan/">Ashwin Karthikeyan</a></b>, University of Toronto</td>
+  <td>Towards Practical Zero-Knowledge Proofs for PSPACE <details><summary>Abstract</summary>Zero-knowledge (ZK) proofs have emerged as powerful tools for enabling secure and privacy-preserving computations. While practical ZK systems have achieved remarkable efficiency for problems in NP, their applicability beyond NP remains largely unexplored. In this talk, I will address that question by focusing on Quantified Boolean Formulas (QBFs)—a canonical PSPACE-complete problem that captures the complexity of many verification and strategic reasoning tasks. Existing ZK methods struggle to handle such problems efficiently.
+I will present two new protocols that make zero-knowledge proofs for PSPACE practical: the first efficiently verifies the falsity of a QBF via quantified resolution, and the second enables proofs of knowledge of a winning strategy. Together, these protocols make it possible to construct zero-knowledge proofs for PSPACE-complete statements that were previously out of reach. This talk is based on work that will appear at IEEE Security & Privacy 2026.</details></td>
 </tr>
 </table>
 
