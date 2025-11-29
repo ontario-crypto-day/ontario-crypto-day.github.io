@@ -8,9 +8,9 @@ feature_row:
   - title: "Fields Institute"
     excerpt: "222 College Street, Toronto, Ontario"
   - title: "Registration"
-    excerpt: "Registration will open soon"
-    # excerpt: "Registration is now closed"
-    excerpt: "Registration is free but required (Registration is now closed)"
+    # excerpt: "Registration will open soon"
+    excerpt: "Registration is now closed"
+    # excerpt: "Registration is free but required"
     url: "https://docs.google.com/forms/d/19uYP20WnNqmkCEz66LpRlyn7PqYITquwVsx9NfqSuQA/edit"
     btn_label: "Register now"
     btn_class: "btn btn--success"
@@ -122,7 +122,9 @@ I will present two new protocols that make zero-knowledge proofs for PSPACE prac
 
 - [Akshayaram Srinivasan](https://www.cs.toronto.edu/%7Eakshayaram/), University of Toronto
 
-For more information, please email [akshayaram@cs.toronto.edu](mailto:akshayaram@cs.toronto.edu).
+For more information, please email [akshayaram@cs.toronto.edu](mailto:akshayaram@cs.toronto.edu). 
+
+We thank the Fields Institute for help with organization of this event. We thank [Ziyang Jin](https://www.cs.toronto.edu/~ziyang/) for volunteering in this event.
 
 {% if 0 == 1 %}
 ## Sponsors
