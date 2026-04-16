@@ -1,0 +1,131 @@
+---
+---
+
+/* Ontario Cryptography Day — custom overrides for Minimal Mistakes theme */
+
+/* ── Hero banner ─────────────────────────────────────────────────────── */
+
+.page__hero--overlay {
+  display: flex;
+  align-items: center;
+  min-height: 320px;
+}
+
+.page__hero--overlay .page__lead {
+  margin-bottom: 0;
+}
+
+/* ── Masthead / Navigation ───────────────────────────────────────────── */
+
+.masthead {
+  background-color: #3b9cba;
+  border-bottom: none;
+}
+
+.greedy-nav {
+  background-color: #3b9cba;
+
+  a {
+    color: #fff;
+
+    &:hover {
+      color: rgba(255, 255, 255, 0.8);
+    }
+  }
+
+  .visible-links a::before {
+    height: 2px;
+    background: #fff;
+  }
+
+  button {
+    background-color: rgba(0, 0, 0, 0.15);
+    color: #fff;
+  }
+}
+
+/* ── Program block container ─────────────────────────────────────────── */
+
+.program-block {
+  margin: 2em 0;
+  padding: 1em 1.2em;
+  color: #3d4144;
+  background-color: #d8ebf1;
+  border-radius: 4px;
+  box-shadow: 0 1px 1px rgba(59, 156, 186, 0.25);
+
+  h2 {
+    margin-top: 0;
+    border-color: #b8cbd1;
+  }
+}
+
+/* ── Program schedule table ──────────────────────────────────────────── */
+
+.program-table {
+  font-size: 90%;
+  width: 100%;
+  border-collapse: collapse;
+
+  td {
+    padding: 0.45em 0.6em;
+    vertical-align: top;
+  }
+
+  /* Time column */
+  td:first-child {
+    white-space: nowrap;
+    width: 8.5em;
+    color: #555;
+  }
+
+  /* Room column */
+  td:nth-child(2) {
+    white-space: nowrap;
+    width: 5em;
+    color: #666;
+  }
+
+  /* Zebra striping */
+  tr:nth-child(even) td {
+    background-color: rgba(59, 156, 186, 0.08);
+  }
+
+  /* Speaker name bold links */
+  td b a {
+    color: #2a7a99;
+  }
+}
+
+/* ── Abstract toggles (<details>/<summary>) ──────────────────────────── */
+
+.program-table details {
+  margin-top: 0.2em;
+
+  summary {
+    cursor: pointer;
+    color: #3b9cba;
+    font-style: italic;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::before {
+      content: "▸ ";
+      font-style: normal;
+      font-size: 1.6em;
+    }
+  }
+
+  &[open] summary::before {
+    content: "▾ ";
+  }
+
+  p {
+    font-size: 90%;
+    margin-top: 0.5em;
+    color: #3d4144;
+  }
+}

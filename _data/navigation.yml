@@ -1,5 +1,5 @@
 main:
-  # - title: "June 6, 2025"
-  #   url: /
+  - title: "Home"
+    url: /
   - title: "Past events"
     url: /past.html

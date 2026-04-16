@@ -13,10 +13,9 @@ feature_row:
 #    btn_label: "Register now"
 #    btn_class: "btn btn--success"
 header:
-  overlay_color: "#3b9cba"
-#   overlay_filter: "0.5"
-#   overlay_image: /assets/images/unsplash-image-1.jpg
-excerpt: "Bringing together the cryptography community in Ontario"
+  overlay_image: /images/campus-mcmaster.jpg
+  overlay_filter: "rgba(0, 40, 70, 0.45)"
+excerpt: "Friday, June 5, 2026 • McMaster University"
 
 ---
 
