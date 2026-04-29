@@ -9,9 +9,9 @@ feature_row:
     excerpt: "McMaster University"
   - title: "Registration"
     excerpt: "Registration is now open"
-#    url: "https://docs.google.com/forms/d/e/1FAIpQLSfpuqHctOoWZmVcKbfWdq9hqAJmKGUw0B-2C8beyodTRw4wLw/viewform?usp=dialog"
-#    btn_label: "Register now"
-#    btn_class: "btn btn--success"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSfpuqHctOoWZmVcKbfWdq9hqAJmKGUw0B-2C8beyodTRw4wLw/viewform?usp=dialog"
+    btn_label: "Register now"
+    btn_class: "btn btn--success"
 header:
   overlay_image: /images/campus-mcmaster.jpg
   overlay_filter: "rgba(0, 40, 70, 0.45)"
