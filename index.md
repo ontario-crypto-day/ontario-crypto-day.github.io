@@ -8,7 +8,7 @@ feature_row:
   - title: "Location"
     excerpt: "McMaster University"
   - title: "Registration"
-    excerpt: "Registration is now open"
+    #  excerpt: "Registration is now open"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSfpuqHctOoWZmVcKbfWdq9hqAJmKGUw0B-2C8beyodTRw4wLw/viewform?usp=dialog"
     btn_label: "Register now"
     btn_class: "btn btn--success"
