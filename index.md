@@ -25,6 +25,11 @@ The event is open to academic, industry, and public sector researchers and pract
 
 {% include feature_row %}
 
+<div class="program-block">
+<h2>Program</h2>
+Coming soon
+</div>
+
 ## Organizers
 
 - [Jake Doliskani](https://www.eng.mcmaster.ca/cas/faculty/jake-doliskani/), McMaster University
