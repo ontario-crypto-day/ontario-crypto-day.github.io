@@ -35,7 +35,7 @@ Coming soon
 
 ## Travel
 
-**The CIBC** Hall is located on the 3rd floor of the [MUSC building](https://maps.app.goo.gl/3VD8F5Fs6e22Kg2W8). The closest parking lots to MUSC are [Parking Lot B](https://maps.app.goo.gl/TXax5BEAotvxbS5Y9) and [Parking Lot C](https://maps.app.goo.gl/gXAASC8mE6u6HtHt7).
+**CIBC Hall:** located on the 3rd floor of the [MUSC building](https://maps.app.goo.gl/3VD8F5Fs6e22Kg2W8). The closest parking lots to MUSC are [Parking Lot B](https://maps.app.goo.gl/TXax5BEAotvxbS5Y9) and [Parking Lot C](https://maps.app.goo.gl/gXAASC8mE6u6HtHt7).
 
 **Public transport:** The McMaster bus terminal, located between Mary E. Keyes Residence and H. G. Thode Library, is used exclusively by [GO Transit](https://www.gotransit.com/en/student-savings/go-to-school). [Hamilton Street Railway (HSR)](https://www.hamilton.ca/home-neighbourhood/hsr) provides connecting routes with nearby stops. Additional services, including [FlixBus](https://www.flixbus.ca/), as well as dedicated McMaster shuttle buses, are also available.
 
