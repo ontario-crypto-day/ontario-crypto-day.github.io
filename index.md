@@ -4,7 +4,7 @@ title: Ontario Cryptography Day
 
 feature_row:
   - title: "Friday, June 5, 2026"
-    excerpt: "10:00am–4:30pm"
+    excerpt: "9:40am–4:30pm"
   - title: "McMaster University"
     excerpt: "CIBC Hall"
   - title: "Registration"
