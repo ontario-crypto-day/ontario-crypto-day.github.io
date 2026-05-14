@@ -86,6 +86,10 @@
     color: #666;
   }
 
+  td:last-child {
+    width: auto;
+  }
+  
   /* Zebra striping */
   tr:nth-child(even) td {
     background-color: rgba(59, 156, 186, 0.08);
