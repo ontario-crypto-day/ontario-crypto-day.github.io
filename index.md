@@ -29,7 +29,25 @@ The event is open to academic, industry, and public sector researchers and pract
 
 <div class="program-block">
 <h2>Program</h2>
-Coming soon
+<table class="program-table">
+<tr>
+  <td>09:40–10:00</td>
+  <td></td>
+  <td>Registration</td>
+</tr>
+<tr>
+  <td>10:00–10:45</td>
+  <td></td>
+  <td><b><a target="_blank" href="https://sam-jaques.appspot.com/">Sam Jaques</a></b>, University of Waterloo.<br>
+  <i>Sharing Seriously Short Shamir Secrets Safely</i>
+  <details>
+    <summary>Abstract</summary>
+While computers easily handle cryptographic key material all the time, real people (even experts) are notoriously bad at this. Threshold cryptography promises to help, by sharing cryptographic keys among multiple people and/or devices. Even if you drop your phone in the ocean or your laptop gets hacked, your keys should remain both safe and available for signing, decryption, or whatever else you need. A particular problem here is distributed generation of the secret key, such that no participant knows the full key at any time. Good techniques exist for discrete log keys, which are uniformly random, but keys for lattice-based schemes must be short. In this talk I will explain the nuances of this problem, previous approaches, and our solution: the structure of zero-knowledge proofs, multi-party computation, and lattices turn out to work together extremely well, allowing us to generate secret vectors smaller than any other scheme permits. This is joint work with Chelsea Komlo and Yijie Zhao.
+  </details>
+  </td>
+</tr>
+  
+</table>
 </div>
 
 
