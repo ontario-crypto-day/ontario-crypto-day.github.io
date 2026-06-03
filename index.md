@@ -134,6 +134,8 @@ This talk presents SecureDrop Protocol, a redesigned version of Freedom of the P
 ## Organizers
 
 - [Jake Doliskani](https://www.eng.mcmaster.ca/cas/faculty/jake-doliskani/), McMaster University
+- [Armin Ahmadkhaniha](https://arminahmadkhaniha.github.io/), McMaster University
+- **Lu Chen**, McMaster University
 
 For more information, please email [jake.doliskani@mcmaster.ca](mailto:jake.doliskani@mcmaster.ca). 
 
