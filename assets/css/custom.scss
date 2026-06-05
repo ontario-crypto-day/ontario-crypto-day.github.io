@@ -39,8 +39,25 @@
   }
 
   button {
-    background-color: rgba(0, 0, 0, 0.15);
     color: #fff;
+  }
+
+  /* Hamburger toggle (mobile) — make the three bars white */
+  .greedy-nav__toggle .navicon,
+  .greedy-nav__toggle .navicon::before,
+  .greedy-nav__toggle .navicon::after {
+    background: #fff;
+  }
+
+  /* Hidden links dropdown (mobile overflow menu) — dark text on white */
+  .hidden-links {
+    a {
+      color: #3d4144;
+
+      &:hover {
+        color: #3b9cba;
+      }
+    }
   }
 }
 

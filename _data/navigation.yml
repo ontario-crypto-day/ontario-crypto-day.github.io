@@ -1,5 +1,3 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Past events"
     url: /past.html
