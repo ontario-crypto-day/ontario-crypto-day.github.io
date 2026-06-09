@@ -138,9 +138,3 @@ This talk presents SecureDrop Protocol, a redesigned version of Freedom of the P
 - **Lu Chen**, McMaster University
 
 For more information, please email [jake.doliskani@mcmaster.ca](mailto:jake.doliskani@mcmaster.ca). 
-
-
-## Past events
-
-- [November 28, 2025 • Fields Institute, Toronto](/2025-11-28.html)
-- [June 6, 2025 • University of Waterloo](/2025-06-06.html)
