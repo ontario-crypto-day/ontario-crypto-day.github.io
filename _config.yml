@@ -1,5 +1,5 @@
 title: Ontario Cryptography Day
-og_image: /images/socialmedia-20250606.png
+og_image: /images/socialmedia-20261209.png
 
 url: https://ontario-crypto-day.github.io/
 repository: ontario-crypto-day/ontario-crypto-day.github.io
@@ -9,5 +9,20 @@ theme: minimal-mistakes-jekyll
 
 atom_feed:
   hide: true
+
+# Jekyll's default excludes, plus tools/ — without it the github-pages bundle's
+# readme-index plugin publishes tools/README.md as a page at /tools/.
+exclude:
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby
+  - tools
 
 google_site_verification: "XLH71DSxCa-oc7wItgMB-gzxL2s2UvNjsdbdGgNuvXA"
