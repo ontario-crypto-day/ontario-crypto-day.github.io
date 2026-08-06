@@ -1,0 +1,37 @@
+# Builds the site on pull requests so a broken build is caught before merge
+# rather than by the deploy in jekyll.yml, which only runs on push to main.
+# This job never deploys, so it needs no Pages permissions.
+name: Build site
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+# One build per pull request; superseded runs are cancelled. Deliberately not
+# the "pages" group used by jekyll.yml, so a build here never queues behind or
+# delays a production deploy.
+concurrency:
+  group: build-pr-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Ruby
+        # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
+        uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
+        with:
+          ruby-version: '3.3' # Keep in step with jekyll.yml
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Build with Jekyll
+        # No --baseurl: this is a user/organization site served from the domain
+        # root, so the base path jekyll.yml passes is empty anyway.
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
