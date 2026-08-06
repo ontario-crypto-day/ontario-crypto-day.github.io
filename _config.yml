@@ -1,4 +1,9 @@
 title: Ontario Cryptography Day
+# Previously supplied implicitly by the github-pages bundle's jekyll-github-metadata
+# plugin, which copied the GitHub repository description into site.description. That
+# plugin is gone, so the value is set here to keep <meta name="description">,
+# og:description, and the feed subtitle populated.
+description: Source code for website of Ontario Cryptography Day
 og_image: /images/socialmedia-20261209.png
 
 url: https://ontario-crypto-day.github.io/
@@ -10,8 +15,13 @@ theme: minimal-mistakes-jekyll
 atom_feed:
   hide: true
 
-# Jekyll's default excludes, plus tools/ — without it the github-pages bundle's
-# readme-index plugin publishes tools/README.md as a page at /tools/.
+# Jekyll 4 compiles Sass with Dart Sass, which defaults to expanded output plus
+# .css.map files. Compress instead, matching the theme's recommended setting.
+sass:
+  style: compressed
+  sourcemap: never
+
+# Jekyll's default excludes, plus tools/ so its README is not copied into the site.
 exclude:
   - .sass-cache
   - .jekyll-cache
