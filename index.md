@@ -69,10 +69,15 @@ Travel and parking details will be posted closer to the event.
 ## Organizers
 
 - [Mohammad Hajiabadi](https://sites.google.com/view/mdhajiabadi/home), University of Waterloo
+- [Sam Jaques](https://sam-jaques.appspot.com/), University of Waterloo
 - [Douglas Stebila](https://www.douglas.stebila.ca/research/), University of Waterloo
 
 For more information, please email [dstebila@uwaterloo.ca](mailto:dstebila@uwaterloo.ca).
 
 ## Sponsors
 
-Ontario Cryptography Day is made possible with the financial support of the University of Waterloo's [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing).
+Ontario Cryptography Day is made possible with the financial support of the University of Waterloo's [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing) and the University of Waterloo's [CryptoWorks21 program](https://uwaterloo.ca/cryptoworks/).
+
+<a href="https://uwaterloo.ca/cryptoworks/"><img src="images/logos/cryptoworks21.png" alt="CryptoWorks21 logo" style="width: 400px;"></a>
+<a href="https://uwaterloo.ca/institute-for-quantum-computing/"><img src="images/logos/iqc.png" alt="IQC logo" style="width: 400px;"></a>
+
