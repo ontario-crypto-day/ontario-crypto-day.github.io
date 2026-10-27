@@ -3,7 +3,7 @@ layout: splash
 title: Ontario Cryptography Day
 
 feature_row:
-  - title: "Wednesday, December 9, 2026"
+  - title: "Tuesday, December 8, 2026"
     excerpt: "Times to be announced"
   - title: "University of Waterloo"
     excerpt: "Institute for Quantum Computing, QNC 0101"
@@ -16,8 +16,8 @@ header:
   # overlay_color: "#3b9cba"
   overlay_image: /images/campus-waterloo-qnc2.jpg
   overlay_filter: "rgba(0, 40, 70, 0.45)"
-  og_image: /images/socialmedia-20261209.png
-excerpt: "Wednesday, December 9, 2026 • University of Waterloo"
+  og_image: /images/socialmedia-20261208.png
+excerpt: "Tuesday, December 8, 2026 • University of Waterloo"
 
 ---
 

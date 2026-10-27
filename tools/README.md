@@ -6,8 +6,8 @@ Generates the 1200×630 social media card shown when an event page is shared.
 Replaces the Photoshop file this design used to live in.
 
 ```sh
-python3 tools/make-social-image.py --date "December 9, 2026" --logo waterloo \
-    --out images/socialmedia-20261209.png
+python3 tools/make-social-image.py --date "December 8, 2026" --logo waterloo \
+    --out images/socialmedia-20261208.png
 ```
 
 Then set `header.og_image` in the event's page to the new file — that is what

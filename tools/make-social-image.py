@@ -5,8 +5,8 @@ Reproduces the layout of the hand-made Photoshop images: the event title in
 Helvetica Neue Condensed Bold, the date in Helvetica Neue, and the host
 university's logo to the right of the date.
 
-    python3 tools/make-social-image.py --date "December 9, 2026" --logo waterloo \
-        --out images/socialmedia-20261209.png
+    python3 tools/make-social-image.py --date "December 8, 2026" --logo waterloo \
+        --out images/socialmedia-20261208.png
 
 The fonts, sizes and baselines below were measured from the June 2025 card
 (images/socialmedia-20250606.png), so the type matches the earlier images to
