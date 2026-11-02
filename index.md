@@ -31,6 +31,8 @@ The event is open to academic, industry, and public sector researchers and pract
 <div class="program-block">
 <h2>Program</h2>
 
+<p>Our invited keynote speaker will be <a href="https://people.eecs.berkeley.edu/~sanjamg/">Sanjam Garg</a> from UC Berkeley.</p>
+
 <p>The program will be announced closer to the event.</p>
 
 <!-- TODO: replace with the program table once speakers are confirmed, e.g.
