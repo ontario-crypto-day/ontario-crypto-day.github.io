@@ -39,7 +39,7 @@ The event is open to academic, industry, and public sector researchers and pract
 <li><a href="https://andrejb.net/"><b>Andrej Bogdanov</b></a>, University of Ottawa</li>
 <li><a href="https://jonasjanneck.org/"><b>Jonas Janneck</b></a>, University of Waterloo</li>
 <li><b>Shane Kelly</b>, DigiCert</li>
-<li><b>Ratnakar Medepalli</b>, Tata Institute of Fundamental Research <br><i>Round-optimal black-box MPC in the plain model from minimal assumptions</i></li>
+<li><b>Ratnakar Medepalli</b>, Tata Institute of Fundamental Research (research visitor University of Toronto) <br><i>Round-optimal black-box MPC in the plain model from minimal assumptions</i></li>
 <!-- Abstract: One of the salient measures of complexity of secure multiparty computation (MPC) protocols is the number of rounds of communication required. We are especially interested in the case of black-box MPC protocols i.e. those that use their constituent building blocks as oracles, as such protocols tend to have better concrete efficiency. In this work, we study the exact round complexity of black box MPC protocols that are constructed from minimal assumptions.
 Previous works showed that at least four rounds are necessary to compute non-trivial functionalities, and five rounds are required for constructions that make black-box use of a 4-round oblivious transfer (OT). We show that five rounds are sufficient to construct a black-box protocol if we start with an OT that satisfies a natural property called 'receiver commitment', and also obtain a matching lower bound.
 Based on joint work with Mohammad Hajiabadi and Akshayaram Srinivasan.
