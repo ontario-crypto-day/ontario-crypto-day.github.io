@@ -120,7 +120,7 @@
 
 /* ── Abstract toggles (<details>/<summary>) ──────────────────────────── */
 
-.program-table details {
+.program-table details, .program-list details {
   margin-top: 0.2em;
 
   summary {
@@ -146,7 +146,7 @@
 
   p {
     font-size: 90%;
-    margin-top: 0.5em;
+    // margin-top: 0.5em;
     color: #3d4144;
   }
 }

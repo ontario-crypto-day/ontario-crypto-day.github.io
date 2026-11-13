@@ -35,15 +35,32 @@ The event is open to academic, industry, and public sector researchers and pract
 
 <p>Our other invited speakers will be:</p>
 
-<ul>
+<ul class="program-list">
 <li><a href="https://andrejb.net/"><b>Andrej Bogdanov</b></a>, University of Ottawa</li>
-<li><a href="https://jonasjanneck.org/"><b>Jonas Janneck</b></a>, University of Waterloo</li>
-<li><b>Shane Kelly</b>, DigiCert</li>
-<li><b>Ratnakar Medepalli</b>, Tata Institute of Fundamental Research (research visitor University of Toronto) <br><i>Round-optimal black-box MPC in the plain model from minimal assumptions</i></li>
-<!-- Abstract: One of the salient measures of complexity of secure multiparty computation (MPC) protocols is the number of rounds of communication required. We are especially interested in the case of black-box MPC protocols i.e. those that use their constituent building blocks as oracles, as such protocols tend to have better concrete efficiency. In this work, we study the exact round complexity of black box MPC protocols that are constructed from minimal assumptions.
-Previous works showed that at least four rounds are necessary to compute non-trivial functionalities, and five rounds are required for constructions that make black-box use of a 4-round oblivious transfer (OT). We show that five rounds are sufficient to construct a black-box protocol if we start with an OT that satisfies a natural property called 'receiver commitment', and also obtain a matching lower bound.
-Based on joint work with Mohammad Hajiabadi and Akshayaram Srinivasan.
--->
+<li>
+  <a href="https://jonasjanneck.org/"><b>Jonas Janneck</b></a>, University of Waterloo<br>
+  <i>Signature combiners and strong unforgeability</i>
+  <details>
+    <summary>Abstract</summary>
+    The transition to post-quantum cryptography is mostly realized through a hybrid approach, in which algorithms based on classical hardness assumptions, such as the discrete logarithm problem, are combined with post-quantum algorithms that rely on quantum-resistant assumptions, such as the Short Integer Solution problem. In this talk, I will give an overview of combiners for signature schemes and their security properties. A special focus will be placed on achieving strong unforgeability and the reasons why previous combiners failed to preserve it. Then, I will present three practical combiners preserving strong unforgeability as well as additional properties. This talk is based on "<a href="https://eprint.iacr.org/2025/1844">Bird of Prey: Practical Signature Combiners Preserving Strong Unforgeability</a>" from Eurocrypt’26.
+  </details>
+</li>
+<li>
+  <b>Shane Kelly</b>, DigiCert<br>
+  <i>From Leaf to Root: A Merkle Tree Certificate Talk</i><br>
+  <details>
+    <summary>Abstract</summary>
+    This talk will cover Merkle Tree Certificates (MTCs) from the ground up. We'll start with an overview of why we're talking about them then dive right into the underlying data structures and algorithms. We'll top it off with discussion of how this affects PKI infrastructure and cover a couple open MTC related questions.
+  </details>
+</li>
+<li>
+  <b>Ratnakar Medepalli</b>, Tata Institute of Fundamental Research (research visitor University of Toronto) <br>
+  <i>Round-optimal black-box MPC in the plain model from minimal assumptions</i><br>
+  <details>
+    <summary>Abstract</summary>
+    One of the salient measures of complexity of secure multiparty computation (MPC) protocols is the number of rounds of communication required. We are especially interested in the case of black-box MPC protocols i.e. those that use their constituent building blocks as oracles, as such protocols tend to have better concrete efficiency. In this work, we study the exact round complexity of black box MPC protocols that are constructed from minimal assumptions.Previous works showed that at least four rounds are necessary to compute non-trivial functionalities, and five rounds are required for constructions that make black-box use of a 4-round oblivious transfer (OT). We show that five rounds are sufficient to construct a black-box protocol if we start with an OT that satisfies a natural property called 'receiver commitment', and also obtain a matching lower bound. Based on joint work with Mohammad Hajiabadi and Akshayaram Srinivasan.
+  </details>
+</li>
 </ul>
 <p>Lunch and coffee breaks will be included.</p>
 <!-- TODO: replace with the program table once speakers are confirmed, e.g.
