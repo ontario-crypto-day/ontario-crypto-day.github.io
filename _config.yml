@@ -6,7 +6,9 @@ title: Ontario Cryptography Day
 description: Source code for website of Ontario Cryptography Day
 og_image: /images/socialmedia-20261208.png
 
-url: https://ontario-crypto-day.github.io/
+# No trailing slash: Jekyll joins url with paths that already start with "/", so a
+# trailing slash here yields "//" in canonical, og:, sitemap, robots.txt and feed URLs.
+url: https://ontario-crypto-day.github.io
 repository: ontario-crypto-day/ontario-crypto-day.github.io
 
 theme: minimal-mistakes-jekyll
@@ -17,9 +19,20 @@ atom_feed:
 
 # Jekyll 4 compiles Sass with Dart Sass, which defaults to expanded output plus
 # .css.map files. Compress instead, matching the theme's recommended setting.
+#
+# The theme's Sass still uses syntax that current Dart Sass deprecates (@import,
+# "/" division, global color functions, ...), producing ~250 warnings per build.
+# quiet_deps hides warnings from the theme's partials, which load via the Sass load
+# path; warnings from this site's own stylesheets (assets/css/custom.scss) still show.
+# The theme's assets/css/main.scss is compiled as a root stylesheet, so quiet_deps
+# does not cover its two @import lines; silence_deprecations handles those. The
+# theme uses these same two settings in its own _config.yml, which does not reach
+# sites that install it as a gem.
 sass:
   style: compressed
   sourcemap: never
+  quiet_deps: true
+  silence_deprecations: [import]
 
 # Jekyll's default excludes, plus tools/ so its README is not copied into the site.
 exclude:
