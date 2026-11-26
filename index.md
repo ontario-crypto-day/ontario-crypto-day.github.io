@@ -30,51 +30,87 @@ The event is open to academic, industry, and public sector researchers and pract
 
 <div class="program-block">
 <h2>Program</h2>
-
-<p>Our invited keynote speaker will be <a href="https://people.eecs.berkeley.edu/~sanjamg/"><b>Sanjam Garg</b></a> from UC Berkeley.</p>
-
-<p>Our other invited speakers will be:</p>
-
-<ul class="program-list">
-<li><a href="https://andrejb.net/"><b>Andrej Bogdanov</b></a>, University of Ottawa</li>
-<li>
-  <a href="https://jonasjanneck.org/"><b>Jonas Janneck</b></a>, University of Waterloo<br>
-  <i>Signature combiners and strong unforgeability</i>
-  <details>
-    <summary>Abstract</summary>
-    The transition to post-quantum cryptography is mostly realized through a hybrid approach, in which algorithms based on classical hardness assumptions, such as the discrete logarithm problem, are combined with post-quantum algorithms that rely on quantum-resistant assumptions, such as the Short Integer Solution problem. In this talk, I will give an overview of combiners for signature schemes and their security properties. A special focus will be placed on achieving strong unforgeability and the reasons why previous combiners failed to preserve it. Then, I will present three practical combiners preserving strong unforgeability as well as additional properties. This talk is based on "<a href="https://eprint.iacr.org/2025/1844">Bird of Prey: Practical Signature Combiners Preserving Strong Unforgeability</a>" from Eurocrypt’26.
-  </details>
-</li>
-<li>
-  <b>Shane Kelly</b>, DigiCert<br>
-  <i>From Leaf to Root: A Merkle Tree Certificate Talk</i><br>
-  <details>
-    <summary>Abstract</summary>
-    This talk will cover Merkle Tree Certificates (MTCs) from the ground up. We'll start with an overview of why we're talking about them then dive right into the underlying data structures and algorithms. We'll top it off with discussion of how this affects PKI infrastructure and cover a couple open MTC related questions.
-  </details>
-</li>
-<li>
-  <b>Ratnakar Medepalli</b>, Tata Institute of Fundamental Research (research visitor University of Toronto) <br>
-  <i>Round-optimal black-box MPC in the plain model from minimal assumptions</i><br>
-  <details>
-    <summary>Abstract</summary>
-    One of the salient measures of complexity of secure multiparty computation (MPC) protocols is the number of rounds of communication required. We are especially interested in the case of black-box MPC protocols i.e. those that use their constituent building blocks as oracles, as such protocols tend to have better concrete efficiency. In this work, we study the exact round complexity of black box MPC protocols that are constructed from minimal assumptions.Previous works showed that at least four rounds are necessary to compute non-trivial functionalities, and five rounds are required for constructions that make black-box use of a 4-round oblivious transfer (OT). We show that five rounds are sufficient to construct a black-box protocol if we start with an OT that satisfies a natural property called 'receiver commitment', and also obtain a matching lower bound. Based on joint work with Mohammad Hajiabadi and Akshayaram Srinivasan.
-  </details>
-</li>
-</ul>
-<p>Lunch and coffee breaks will be included.</p>
-<!-- TODO: replace with the program table once speakers are confirmed, e.g.
-
 <table class="program-table">
 <tr>
   <td>09:40–10:00</td>
-  <td>QNC&nbsp;0101</td>
+  <td></td>
   <td>Registration</td>
 </tr>
+
+<tr>
+  <td>10:00–10:45</td>
+  <td></td>
+  <td><b><a target="_blank" href="https://andrejb.net/">Andrej Bogdanov</a></b>, University of Ottawa.<br>
+  <i>My favorite open problem in secret sharing</i>
+  <details>
+  <summary>Abstract</summary>
+    A bit of information is shared among Alice, Bob, Carol, Dave, Elsa, Fred and Gina. Any three of them can recover it. Any two know nothing about it. In 1979 Shamir showed how to do this, as long as each can spare three bits of memory. What if they are a little short? I will tell you about the circuitous route from “P equals NP” to this question, its relation to Csirmaz’s mysterious duality conjecture, and some recent insights from joint work with Yanbo Chen.
+  </details>
+  </td>
+</tr>
+
+<tr>
+  <td>10:45–11:15</td>
+  <td></td>
+  <td>Coffee break</td>
+</tr>
+
+<tr>
+  <td>11:15–12:15</td>
+  <td></td>
+  <td>Invited keynote: <b><a target="_blank" href="https://people.eecs.berkeley.edu/~sanjamg/">Sanjam Garg</a></b>, UC Berkeley.
+  </td>
+</tr>
+
+<tr>
+  <td>12:15–13:45</td>
+  <td></td>
+  <td>Lunch</td>
+</tr>
+
+<tr>
+  <td>13:45–14:30</td>
+  <td></td>
+  <td><b>Shane Kelly</b>, DigiCert.<br>
+  <i>From Leaf to Root: A Merkle Tree Certificate Talk</i>
+  <details>
+  <summary>Abstract</summary>
+    This talk will cover Merkle Tree Certificates (MTCs) from the ground up. We'll start with an overview of why we're talking about them then dive right into the underlying data structures and algorithms. We'll top it off with discussion of how this affects PKI infrastructure and cover a couple open MTC related questions.
+  </details>
+  </td>
+</tr>
+
+<tr>
+  <td>14:30–15:15</td>
+  <td></td>
+  <td><b>Ratnakar Medepalli</b>, Tata Institute of Fundamental Research (research visitor University of Toronto).<br>
+  <i>Round-optimal black-box MPC in the plain model from minimal assumptions</i>
+  <details>
+  <summary>Abstract</summary>
+    One of the salient measures of complexity of secure multiparty computation (MPC) protocols is the number of rounds of communication required. We are especially interested in the case of black-box MPC protocols i.e. those that use their constituent building blocks as oracles, as such protocols tend to have better concrete efficiency. In this work, we study the exact round complexity of black box MPC protocols that are constructed from minimal assumptions.Previous works showed that at least four rounds are necessary to compute non-trivial functionalities, and five rounds are required for constructions that make black-box use of a 4-round oblivious transfer (OT). We show that five rounds are sufficient to construct a black-box protocol if we start with an OT that satisfies a natural property called 'receiver commitment', and also obtain a matching lower bound. Based on joint work with Mohammad Hajiabadi and Akshayaram Srinivasan.
+  </details>
+  </td>
+</tr>
+
+<tr>
+  <td>15:15–15:45</td>
+  <td></td>
+  <td>Coffee break</td>
+</tr>
+
+<tr>
+  <td>15:45–16:30</td>
+  <td></td>
+  <td><b><a target="_blank" href="https://jonasjanneck.org/">Jonas Janneck</a></b>, University of Waterloo.<br>
+  <i>Signature combiners and strong unforgeability</i>
+  <details>
+  <summary>Abstract</summary>
+    The transition to post-quantum cryptography is mostly realized through a hybrid approach, in which algorithms based on classical hardness assumptions, such as the discrete logarithm problem, are combined with post-quantum algorithms that rely on quantum-resistant assumptions, such as the Short Integer Solution problem. In this talk, I will give an overview of combiners for signature schemes and their security properties. A special focus will be placed on achieving strong unforgeability and the reasons why previous combiners failed to preserve it. Then, I will present three practical combiners preserving strong unforgeability as well as additional properties. This talk is based on "<a href="https://eprint.iacr.org/2025/1844">Bird of Prey: Practical Signature Combiners Preserving Strong Unforgeability</a>" from Eurocrypt’26.
+  </details>
+  </td>
+</tr>
+
 </table>
-
--->
-
 </div>
 
 
